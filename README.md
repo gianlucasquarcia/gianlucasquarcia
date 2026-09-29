@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./space.svg" width="100%" alt="Animated space banner with stars, a ringed planet and a UFO" />
+  <img src="static/space.svg" width="100%" alt="Animated space banner with stars, a ringed planet and a UFO" />
 </p>
 
 ## 👋 Hello world!
