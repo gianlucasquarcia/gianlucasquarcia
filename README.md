@@ -108,7 +108,7 @@
   </tr>
 </table>
 
-<p align="center"><i>"If it can be automated, it will be automated."</i></p>
+<p align="center"><i>"I will always choose a lazy person for a difficult job. Because, he will find an easy way to do it. (Bill Gates)"</i></p>
 
 ## 🛠️ Tech Stack
 
