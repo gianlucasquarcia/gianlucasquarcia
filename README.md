@@ -2,7 +2,7 @@
   <img src="static/space.svg" width="100%" alt="Animated space banner with stars, a ringed planet and a UFO" />
 </p>
 
-## 👋 Hello world!
+## 👋 Hello there!
 
 <div align="center">
   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="500" alt="Profile avatar" />
