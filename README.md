@@ -58,11 +58,11 @@
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
     </td>
     <td valign="top" width="50%">
-      <h3>🪙 <a href="https://github.com/gianlucasquarcia/Cryptobot">Cryptobot</a></h3>
-      <p>A set-and-forget crypto bot that trades <b>20/50 EMA crossovers</b>. It saves its state across restarts and has a live trading-terminal dashboard.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Crypto-F7931A?style=flat-square&logo=bitcoin&logoColor=white" />
-      <img src="https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white" />
+      <h3>📄 <a href="https://github.com/gianlucasquarcia/R8MyCV">R8MyCV</a></h3>
+      <p>Upload a PDF CV and get a <b>score</b>, layout and content reviews, and prioritised hints, optionally tailored to a job description. Runs fully locally with Ollama.</p>
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
     </td>
   </tr>
   <tr>
