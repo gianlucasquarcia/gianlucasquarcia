@@ -129,6 +129,7 @@
   <a href="https://github.com/gianlucasquarcia"><img src="https://img.shields.io/badge/GitHub-@gianlucasquarcia-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/gianluca-squarcia-5590b543/"><img src="https://img.shields.io/badge/LinkedIn-Gianluca%20Squarcia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/gianjisq"><img src="https://img.shields.io/badge/X-@gianjisq-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://discord.com/users/1570387069010976798"><img src="https://img.shields.io/badge/Discord-gianji-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: gianji" /></a>
 </p>
 
 <p><sub>⭐ Explore my repositories to see what I'm building right now.</sub></p>
